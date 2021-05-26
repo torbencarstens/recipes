@@ -1,7 +1,7 @@
 ---
 title: "Shakshuka"
 date: 2021-05-26T13:02:46+02:00
-draft: true
+draft: false
 ---
 
 [Original recipe](https://www.simplyrecipes.com/shakshuka-with-feta-olives-and-peppers-5114919)
