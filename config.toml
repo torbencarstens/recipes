@@ -1,0 +1,4 @@
+baseURL = "https://torbens.recipes/"
+languageCode = "en-us"
+title = "Recipes"
+theme = "etch"
