@@ -6,8 +6,6 @@ draft: false
 
 [Original recipe](https://www.simplyrecipes.com/shakshuka-with-feta-olives-and-peppers-5114919)
 
-# Shakshuka
-
 Shakshouka (Arabic: شكشوكة‎, also spelled shakshuka or chakchouka) is a Maghrebi dish of eggs poached in a sauce of tomatoes, olive oil, peppers, onion and garlic, and commonly spiced with cumin, paprika, cayenne pepper, and nutmeg. 
 
 # Why Shakshuka
