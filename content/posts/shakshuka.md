@@ -117,7 +117,9 @@ You're gonna be the one that saves me (saves me)
 You're gonna be the one that saves me (that saves me)
 You're gonna be the one that saves me (that saves me)
 
-I hope you've been actually sining this wonderful song and not just skipping over it. Thanks to all the people who inspired me to be this creative. It's truly an honor to work with myself, it's been going great so far if I do say so myself. 1000 words here we are.
+I hope you've been actually singing this wonderful song and not just skipping over it. Thanks to all the people who inspired me to be this creative. It's truly an honor to work with myself, it's been going great so far if I do say so myself. 1000 words here we are.
+
+Anyway, describing a recipe here would not take my great experiences in Tel Aviv justice, that's why I advise you to try the dish where it is meant to be tried, in the bustling city streets of the near East and now I'll bid you farewell.
 
 # Adapted recipe
 
